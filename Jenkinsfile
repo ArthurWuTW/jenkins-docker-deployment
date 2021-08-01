@@ -6,7 +6,7 @@ pipeline {
             steps {
                 sh '''  
                     #!/bin/bash
-                    echo "hello world" 
+                    pwd
                 '''
             }
         }
@@ -15,7 +15,7 @@ pipeline {
             steps {
                 sh '''  
                     #!/bin/bash
-                    echo "hello world" 
+                    pwd
                 '''
             }
             
@@ -25,7 +25,7 @@ pipeline {
             steps {
                 sh '''  
                     #!/bin/bash
-                    echo "hello world" 
+                    pwd
                 '''
             }
         }
