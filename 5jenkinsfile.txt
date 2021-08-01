@@ -1,1 +1,5 @@
-Create a file named Jenkinsfile
+1. New Item
+2. Pipeline
+3, configure - pipeline - jenkinsfile
+
+Jenkinsfile
