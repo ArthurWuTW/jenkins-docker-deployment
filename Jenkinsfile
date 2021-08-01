@@ -6,23 +6,27 @@ pipeline {
 
     stage("build") {
       steps: {
-        echo '-------build------'
-
+        script {
+          echo '-------build------'
+        }
       }
     }
 
     stage("test") {
       steps: {
-        echo '-------test------'
-
+        script {
+          echo '-------test------'
+        }
       }
     }
 
     stage("deploy") {
       steps: {
-        echo '-------deploy------'
-
+        script {
+          echo '-------deploy------'
+        }
       }
     }
+
   }
 }
