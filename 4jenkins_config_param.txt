@@ -1,0 +1,4 @@
+Configuration:
+
+jenkins URL:
+- http://localhost:7777/
