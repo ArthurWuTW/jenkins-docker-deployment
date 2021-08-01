@@ -2,4 +2,7 @@
 2. Pipeline
 3, configure - pipeline - jenkinsfile
 
+4. when permission error occurs, do >> sudo usermod -a -G docker jenkins
+
+
 Jenkinsfile
